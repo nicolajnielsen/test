@@ -1,0 +1,37 @@
+/* Start Viewport desktop */
+.content-full > .content-inner > [objtype], .content-full > .content-inner > shared > [objtype] { min-width:980px; }
+.content-fixed > .content-inner { width:980px; }
+.hidden-desktop { display:none!important; }
+.wse-men > nav { display:block; }
+.wse-men .menu-toggle { display:none; }
+#txtBox_63 { top:33px; left:5px; width:980px; height:29px; z-index:102; }
+header, header > #header-wrap { height:101px; }
+header { margin-top:0px; margin-bottom:0px; }
+footer, footer > #footer-wrap { height:93px; }
+footer { margin-top:0px; margin-bottom:0px; }
+#body-content { min-height:350px; }
+body { background-color:#ffffff; background-repeat:repeat; background-size:auto; background-position:0 0; background-attachment:initial; background-image:none; -moz-background-size:auto; -webkit-background-size:auto; }
+#body-content, header, header > #header-wrap, footer, footer > #footer-wrap { min-width:980px; }
+#txtBox_67 { top:11px; left:26px; width:378px; height:50px; z-index:103; }
+#ftr_socialBar_68 { top:27px; left:675px; width:253px; height:40px; z-index:108; }
+#ftr_socialBar_68 .wse-ico { font-size:40px; }
+#ftr_socialBar_68 .wse-ico-set { padding-top:0px; padding-left:53px; }
+#ftr_socialBar_68 .ico-link { font-size:1em; width:40px; height:40px; margin-top:0px; }
+#ftr_socialBar_68 .ico-link i { line-height:40px; }
+#hdr_btnTool_114 { top:46px; left:186px; width:93px; height:55px; z-index:109; }
+#hdr_btnTool_114 .wseT { line-height:55px; }
+#hdr_btnTool_115 { top:46px; left:279px; width:93px; height:55px; z-index:110; }
+#hdr_btnTool_115 .wseT { line-height:55px; }
+#hdr_btnTool_111 { top:46px; left:0px; width:93px; height:55px; z-index:101; }
+#hdr_btnTool_111 .wseT { line-height:55px; }
+#hdr_btnTool_119 { top:46px; left:93px; width:93px; height:55px; z-index:112; }
+#hdr_btnTool_119 .wseT { line-height:55px; }
+#hdr_btnTool_136 { top:46px; left:857px; width:123px; height:55px; z-index:114; }
+#hdr_btnTool_136 .wseT { line-height:55px; }
+#ftr_icon_108 { top:36px; left:938px; width:25px; height:25px; z-index:107; font-size:25px; }
+#ftr_icon_108 .ico-link { font-size:1em; width:25px; height:25px; margin-top:0px; }
+#ftr_icon_108 .ico-link i { line-height:25px; }
+#ftr_boxTool_109 { top:27px; left:932px; width:36px; height:40px; z-index:106; }
+#hdr_btnTool_121 { top:46px; left:372px; width:123px; height:55px; z-index:117; }
+#hdr_btnTool_121 .wseT { line-height:55px; }
+/* End Viewport desktop */

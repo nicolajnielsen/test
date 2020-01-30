@@ -1,0 +1,40 @@
+/* Start Viewport desktop */
+.wse-men > nav { display:block; }
+.wse-men .menu-toggle { display:none; }
+#body-content { height:1513px; }
+body { background-color:transparent; background-repeat:repeat; background-size:auto; background-position:0 0; background-attachment:initial; background-image:none; -moz-background-size:auto; -webkit-background-size:auto; }
+#stripTool_85 { top:1321px; left:0px; width:100%; height:192px; z-index:104; }
+#txtBox_104 { top:1376px; left:18px; width:559px; height:82px; z-index:105; }
+#btnTool_113 { top:1376px; left:646px; width:315px; height:75px; z-index:111; }
+#btnTool_113 .wseT { line-height:75px; }
+#photogallery_105 { top:180px; left:0px; width:980px; height:589px; z-index:113; }
+#photogallery_105 .wsg-thumb-container { width:33.3333%; height:33.3333%; }
+#photogallery_105 .tc-1 img { margin-top:-25px; margin-left:0px; width:318px; height:239px; }
+#photogallery_105 .tc-2 img { margin-top:-25px; margin-left:0px; width:318px; height:239px; }
+#photogallery_105 .tc-3 img { margin-top:-25px; margin-left:0px; width:318px; height:239px; }
+#photogallery_105 .tc-4 img { margin-top:-25px; margin-left:0px; width:318px; height:239px; }
+#photogallery_105 .tc-5 img { margin-top:-25px; margin-left:0px; width:318px; height:239px; }
+#photogallery_105 .tc-6 img { margin-top:-25px; margin-left:0px; width:318px; height:239px; }
+#photogallery_105 .tc-7 img { margin-top:-25px; margin-left:0px; width:318px; height:239px; }
+#photogallery_105 .tc-8 img { margin-top:0px; margin-left:-8px; width:334px; height:188px; }
+#photogallery_105 .tc-9 img { margin-top:-25px; margin-left:0px; width:318px; height:239px; }
+#photogallery_105 .tc-10 img { margin-top:-26px; margin-left:0px; width:318px; height:239px; }
+#photogallery_105 .tc-11 img { margin-top:-26px; margin-left:0px; width:318px; height:239px; }
+#photogallery_105 .tc-12 img { margin-top:-26px; margin-left:0px; width:318px; height:239px; }
+#photogallery_105 .tc-13 img { margin-top:-26px; margin-left:0px; width:318px; height:239px; }
+#txtBox_106 { top:68px; left:614px; width:298px; height:98px; z-index:115; }
+#btnTool_110 { top:88px; left:22px; width:160px; height:55px; z-index:116; }
+#btnTool_110 .wseT { line-height:55px; }
+#txtBox_111 { top:38px; left:38px; width:127px; height:50px; z-index:118; }
+#txtBox_112 { top:38px; left:248px; width:99px; height:50px; z-index:119; }
+#btnTool_114 { top:88px; left:217px; width:160px; height:55px; z-index:120; }
+#btnTool_114 .wseT { line-height:55px; }
+#txtBox_117 { top:901px; left:18px; width:554px; height:210px; z-index:121; }
+#imageContainer_118 { top:846px; left:602px; width:321px; height:321px; z-index:122; }
+#imageContainer_118 img { width:321px; height:321px; margin-top:0px; margin-left:0px; }
+#txtBox_118 { top:114px; left:646px; width:233px; height:84px; z-index:123; }
+#txtBox_120 { top:827px; left:18px; width:449px; height:50px; z-index:124; }
+#btnTool_121 { top:89px; left:410px; width:160px; height:55px; z-index:125; }
+#btnTool_121 .wseT { line-height:55px; }
+#txtBox_122 { top:38px; left:440px; width:99px; height:50px; z-index:126; }
+/* End Viewport desktop */
